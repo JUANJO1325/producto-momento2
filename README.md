@@ -1,84 +1,39 @@
-# 📦 app-maquetacion-1
+Producto Segundo Momento
+Integrantes del equipo de desarrollo
 
-🚀 Proyecto de maquetación con React
+-Daniel Mazo Alarcon
+ 1152452910
+ dmazo@cesde.net
 
-## 📋 Descripción
+-Juan José Osorno 
+ 1017927848
+ josorno@cesde.net
 
-"app-maquetacion" es un proyecto creado con **React** para desarrollar una maquetación web, de una actividad educativa.
+-Juan Sebastian Cruz
+ 1000886730
+ jcruzs@cesde.net 
 
-## 🛠️ Tecnologías
+Este repositorio forma parte de un proyecto educativo que permite gestionar cursos, profesores, materias y otros elementos relacionados con una institución académica.
 
-- ⚛️ **React** - Biblioteca para interfaces de usuario
-- 💅 **CSS/Styled Components** - Estilos personalizados
-- 📄 **HTML5** - Estructura semántica
-- 📦 **Vite** - Entorno de desarrollo optimizado
+Descripción del Proyecto
 
-## 📌 Características principales
- 
-✅ Código reutilizable por componentes.  
-✅ Configuración optimizada con **Vite**.  
-✅ Estructura escalable para facilitar el mantenimiento.  
+Nuestro producto es una plataforma educativa desarrollada con el propósito de facilitar la administración de contenidos académicos.Hasta el momento en la aplicación es posible:
 
-## 📂 Estructura del proyecto
-
-```
-maqueta-1/
-├── public/
-├── src/
-│    ├── components/     # Componentes reutilizables
-│    ├── pages/          # Páginas principales
-│    ├── assets/         # Imágenes y recursos
-│    └── App.jsx         # Componente principal
-└── package.json
-```
-
-## 🚀 Instalación y ejecución
-
-1. **Clonar el repositorio:**
-
-```bash
-git clone https://github.com/danmalarcon/maquetacion-1.git
-```
-
-2. **Entrar en el directorio del proyecto:**
-
-```bash
-cd maquetacion-1
-```
-
-3. **Instalar dependencias:**
-
-```bash
-npm install
-```
-
-4. **Iniciar el servidor de desarrollo:**
-
-```bash
-npm run dev
-```
-
-✅ El proyecto estará disponible en `http://localhost:5173`
+-Iniciar o registrar Sesión.
+-Conocer las ultimas noticias para el estudiante.
+-Acceso rapido a los diferentes menus.
+-Contacto, donde el usuario podra introducir su información para ser contactado, o en su defecto contactar a la institucion y conocer la informacion del centro educativo.
+-Conocer la información de la historio, misión, visión y contactar y conocer a los profesores.
 
 
-## 🤝 Contribuciones
+Se desea llegar a:
+- Registrar y gestionar profesores.
+- Crear y asignar materias.
+- Organizar cursos y estudiantes.
+- Automatizar tareas administrativas comunes en el entorno educativo.
 
-¡Las contribuciones son bienvenidas! Si deseas colaborar, sigue estos pasos:
+Funcionalidades principales
 
-1. Haz un fork del proyecto.
-2. Crea una rama (`git checkout -b feature/nueva-feature`).
-3. Realiza los cambios y haz un commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Haz push a tu rama (`git push origin feature/nueva-feature`).
-5. Abre un Pull Request.
-
-## 📧 Contacto
-
-Creado con ❤️ por [@danmalarcon](https://github.com/danmalarcon). ¡No dudes en contactarme si tienes alguna pregunta o sugerencia!
-
----
-
-⭐️ ¡Si te gusta este proyecto, dale una estrella al repositorio!
-
-## 📚 Créditos
-
-Este proyecto fue creado utilizando la plantilla oficial de [React + Vite](https://vitejs.dev/).
+- Gestión de usuarios (profesores, estudiantes, administradores).
+- Visualización de información académica.
+- Posible integración futura con bots o plataformas de mensajería.
