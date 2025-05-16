@@ -260,12 +260,16 @@ const Dashboard = ({ onLogout }) => {
                 <h2>Conoce Nuestro Equipo</h2>
                 <div className="team-grid">
                   <div className="team-member">
-                    <div className="member-photo"></div>
+                    <div className="member-photo">
+                      <img src="../assets/persona1.webp" alt="" />
+                    </div>
                     <h3>Prof. Juan Pérez</h3>
                     <p>Coordinador Académico</p>
                   </div>
                   <div className="team-member">
-                    <div className="member-photo"></div>
+                    <div className="member-photo">
+                      <img src="../assets/persona.jpeg" alt="" />
+                    </div>
                     <h3>Prof. María Gómez</h3>
                     <p>Directora de Programas</p>
                   </div>
