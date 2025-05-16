@@ -37,3 +37,11 @@ Funcionalidades principales
 - Gestión de usuarios (profesores, estudiantes, administradores).
 - Visualización de información académica.
 - Posible integración futura con bots o plataformas de mensajería.
+
+Tecnología utilizada:
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- JavaScript (o TypeScript)
+- HTML + CSS
+- Node.js + npm
+- React Router (si aplica)
